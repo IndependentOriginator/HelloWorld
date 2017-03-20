@@ -1,0 +1,1 @@
+@CALL ..\GeneralizedProgram\Build-Windows.cmd %*

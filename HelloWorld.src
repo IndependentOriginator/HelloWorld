@@ -1,0 +1,5 @@
+ProgramEntryPoint(
+	MainProgramCode = 
+		MessageOutput(
+			Text = 
+				StringLiteral([Hello]_PostProcessedCharComma[ world]EscapeSeq(SpecialChar = _PostProcessedCharExclamationMark))))
